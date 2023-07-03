@@ -6,7 +6,6 @@ GREEN='\033[0;32m'
 Yellow="\033[33m";
 log="unlock-chatgpt-test-result.log"
 
-clear;
 echo -e "${GREEN}** Chat GPT ip可用性检测${PLAIN} ${Yellow}by JCNF·那坨${PLAIN}" && echo -e "Chat GPT ip可用性检测 by JCNF·那坨" > ${log};
 echo -e "${RED}** 提示 本工具测试结果仅供参考，请以实际使用为准${PLAIN}" && echo -e "提示 本工具测试结果仅供参考，请以实际使用为准" >> ${log};
 echo -e "** 系统时间: $(date)" && echo -e " ** 系统时间: $(date)" >> ${log};
