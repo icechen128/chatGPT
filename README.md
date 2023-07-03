@@ -8,4 +8,4 @@ Chat GPT最近很火，但很多运营商的IP已经无法注册和使用的，�
 
 安装并运行脚本
 
-	wget -O chat.sh https://raw.githubusercontent.com/Netflixxp/chatGPT/main/chat.sh && chmod +x chat.sh && clear && ./chat.sh
+	wget -O chat.sh https://raw.githubusercontent.com/icechen128/chatGPT/main/chat.sh && chmod +x chat.sh && clear && ./chat.sh
